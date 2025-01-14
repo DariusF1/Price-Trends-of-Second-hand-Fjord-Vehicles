@@ -6,6 +6,7 @@ My next automobile was a Audi A3 2.0L petrol FSi that despite being equally anci
 
 Finally post-Covid I splurged on a spaceship in terms of modernity (plus not being the same age as my little sister) - a '17 BMW X3 M-sport 2.0L diesel. No more cassette adapters, no sir.
 
-Throughout the recent years I've followed the interesting [anomalous trends](https://www.goodcarbadcar.net/the-global-pandemic-its-impact-on-the-used-car-market/) in used car prices as the underlying causes e.g. disruption of new vehicle supply chain, tightening of consumer budgets to purchase new cars...and nowhere to drive, fascinated me.
-This inspired me to investigate the strength of relationship between vehicle characteristics and their price. 
+Throughout the recent years I've followed the interesting [anomalous trends](https://www.goodcarbadcar.net/the-global-pandemic-its-impact-on-the-used-car-market/) in used car prices as the underlying causes e.g. disruption of new vehicle supply chain, tightening of consumer budgets to purchase new cars, overall changes in car-maker product offerings (how car manufacturers increasingly derive higher margins from add-on features), fascinated me.
+
+This all inspired me to investigate the strength of relationship between vehicle characteristics and their price on used "Fjord" vehicles. 
 
