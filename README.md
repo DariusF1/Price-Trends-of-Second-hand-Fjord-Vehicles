@@ -8,5 +8,5 @@ Finally post-Covid I splurged on a spaceship in terms of modernity (plus not bei
 
 Throughout the recent years I've followed the interesting [anomalous trends](https://www.goodcarbadcar.net/the-global-pandemic-its-impact-on-the-used-car-market/) in used car prices as the underlying causes e.g. disruption of new vehicle supply chain, tightening of consumer budgets to purchase new cars, overall changes in car-maker product offerings (how car manufacturers increasingly derive higher margins from add-on features), fascinated me.
 
-This all inspired me to investigate the strength of relationship between vehicle characteristics and their price on used "Fjord" vehicles. 
+This all inspired me to investigate the **strength of relationship between vehicle characteristics and their price on used "Fjord" vehicles.**
 
